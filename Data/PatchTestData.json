@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Updated Name", "expectedStatus": 200 },
+  { "id": 2, "name": "", "expectedStatus": 400 }
+]
