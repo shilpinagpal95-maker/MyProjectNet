@@ -1,7 +1,7 @@
 # CSharp API Project
 
 ## Overview
-C# API test automation project using .NET 8, NUnit, and RestSharp/HttpClient.
+C# API test automation project using .NET 8, NUnit, and RestSharp/HttpClient
 
 ## Setup
 1. Clone repo
